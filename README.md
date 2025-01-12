@@ -64,7 +64,7 @@
 <td>?</td>
 <td>?</td>
 <td>webdav NOT supported</td>
-<td>"The limit is based on the amount of data downloaded from your IP address over the past six hours.". "MEGA CMD" tool supports command line backup. There is also a gui app.</td>
+<td>"The limit is based on the amount of data downloaded from your IP address over the past six hours." "MEGA CMD" tool supports command line backup. There is also a gui app.</td>
 </tr>
 
 </tbody></table>
