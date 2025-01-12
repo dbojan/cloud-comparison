@@ -15,7 +15,7 @@
 <tr>
 <td><a href="https://infini-cloud.net/en/">ininfini-cloud.net</a></td>
 <td>20 GB</td>
-<td>5 GB, enter referal code in My Page. Storage bonus valid for one year. </td>
+<td>5 GB, enter referal code in My Page. <b>Storage bonus valid for one year</b>. </td>
 <td>ZPF5G</td>
 <td>No</td>
 <td>2 years, if not used. You will be warned via e-mail</td>
