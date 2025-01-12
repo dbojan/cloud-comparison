@@ -27,7 +27,7 @@
 <td><a href="https://tebi.io/">tebi.io</a><a></a></td>
 <td>20 GB</td>
 <td>?</td>
-<td></td>
+<td>?</td>
 <td>Yes, after 14 days free trial</td>
 <td>?</td>
 <td>s3, ftp, ftps</td>
