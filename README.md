@@ -15,7 +15,7 @@
 <tr>
 <td><a href="https://infini-cloud.net/en/">ininfini-cloud.net</a></td>
 <td>20 GB</td>
-<td>+5 GB, enter referal code in My Page. <b>Storage bonus valid for one year</b>. </td>
+<td>+5 GB, enter other persons referal code in 'My Page'. <b>Storage bonus valid for one year</b>. </td>
 <td>ZPF5G</td>
 <td>No</td>
 <td>2 years, if not used. You will be warned via e-mail</td>
@@ -70,6 +70,10 @@
 </tbody></table>
 
 
+## How to
+
+
+
 
 ### Mega cmd how to use to get webdav and ftp local server:
 
@@ -81,7 +85,7 @@ and then MEGAcmdShell.exe
 since app path is hardcoded to your localappfolder  C:\Users\yourname\AppData\Local\MEGAcmd)
 
 -to login to your account inside server emulator, type in MEGAcmdShell window:: 
-login your@email.com
+login your@mega_account_email.com
 enter your password
 
 -to start local 'webdav' server of your mega cloud folder, type in MEGAcmdShell window:
@@ -114,6 +118,30 @@ https://mega.nz/fm/someletters
 note:
 -I got a lot lot of timeout detected using winscp/ftp with 35 mb file, webdav works fine in explorer.
 -megacmd will create a lot of temp files in '.megaCmd' subfolder
+
+### Tebi.io
+
+After a 14-day trial, you will be automatically switched to the Free Tier, 
+which offers 25GB of storage in 2 copies and 250GB of outbound transfer each month.
+FTP is always available. You will also have to enter your credit card info, 
+but they say you won't be charged unless use more than 250 outbound transfer per month
+
+howto to use:
+-add bucket, name it ftp1, or whatever
+-create master key
+-click on edit key, enable ftp in keys
+-use key as ftp username 
+-click on 'show secret' and use it as ftp password
+
+
+### Infinicloud
+
+First copy and save 'apps password' somewhere, it will be only showed once.
+You can reissue it later, but it will take few minutes to refresh.
+To enable ftp, go to my page and enable 'Turn on Apps Connection'
+use your username as ftp username, and 'apps password' as ftp password.
+
+
 </pre></code>
 
 <sub>
@@ -121,3 +149,5 @@ Q: How do I use html in github MarkDown?
 	
 A: As usual, just don't indent, and have one line empty on start and end html.
 </sub>
+
+
