@@ -45,6 +45,19 @@
 <td>Download limited. "The limit is based on the amount of data downloaded from your IP address over the past six hours." </td>
 </tr>
 
+
+<tr>
+<td><a href="https://e.mail.ru/">mail.ru</a></td>
+<td>8 GB</td>
+<td>?</td>
+<td>?>code</a></td>
+<td>?</td>
+<td>?</td>
+<td>webdav, you have to enable pass for external apps.</td>
+<td>english version of site is at: https://e.mail.ru </td>
+</tr>
+
+
 <tr>
 <td><a href="https://drive.google.com/">google drive</a></td>
 <td>15 GB</td>
@@ -133,6 +146,17 @@ howto to use:
 -You can reissue it later, but it will take few minutes to refresh.
 -To enable ftp, go to my page and enable 'Turn on Apps Connection'
 -Use your username as ftp username, and 'apps password' as ftp password.
+
+### mail.ru - https://e.mail.ru/ 
+-login, click on settings / security in bottom left, or go to https://id.mail.ru/security
+-click on 'create passwords for external apps' at the bottom
+-click on 'create', name it 'webdav'
+-enable webdav
+-enter your password
+-copy new auto created pass for webdav
+-webdav server is webdav.cloud.mail.ru
+
+
 
 
 </pre></code>
