@@ -176,6 +176,7 @@ howto to use:
 -copy created password, it is only shown once, but you can create new. Both new and old are valid
 -webdav server is webdav.yandex.com
 -use your username, and created pass
+-note that free image and video upload is only available to premium users.
 
 
 </pre></code>
