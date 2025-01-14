@@ -69,15 +69,13 @@
 
 </tbody></table>
 
+<code><pre>
 
 ## How to
 
-
-
-
 ### Mega cmd how to use to get webdav and ftp local server:
 
-<code><pre>
+
 download [megacmd](https://mega.io/cmd)
 install
 (or, if you unzip to to some folder. you have to start MEGAcmdServer.exe first, 
