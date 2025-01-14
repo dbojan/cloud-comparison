@@ -63,11 +63,57 @@
 <td>?</td>
 <td>?</td>
 <td>?</td>
-<td>webdav NOT supported</td>
-<td>"The limit is based on the amount of data downloaded from your IP address over the past six hours." "MEGA CMD" tool supports command line backup. There is also a gui app.</td>
+<td>webdav and ftp supported only through local command line server "MEGA CMD"</td>
+<td>Download limited. "The limit is based on the amount of data downloaded from your IP address over the past six hours." </td>
 </tr>
 
 </tbody></table>
+
+
+
+## Mega cmd how to use to get webdav and ftp local server:
+
+<code><pre>
+download [megacmd](https://mega.io/cmd)
+install
+(or, if you unzip to to some folder. you have to start MEGAcmdServer.exe first, and then MEGAcmdShell.exe
+since app path is hardcoded to your localappfolder  C:\Users\yourname\AppData\Local\MEGAcmd)
+
+-to login to your account inside server emulator, type in MEGAcmdShell window:: 
+login your@email.com
+enter your password
+
+-to start local 'webdav' server of your mega cloud folder, type in MEGAcmdShell window:
+webdav /
+
+(to serve "newfolder" that is created in mega cloud storage, type in:
+webdav newfolder)
+
+you can connect to webdav server using winscp, and your mega email and pass,
+or "connect to network drive" in windows explorer, without requiring email and pass.
+webdav server example:
+http://127.0.0.1:4443/someletters/Cloud%20Drive
+
+-to start local 'ftp' server, type in:
+ftp /
+or 
+ftp newfolder
+ftp server example:
+ftp://127.0.0.1:4990/someletters/Cloud%20Drive
+
+you can see webdav and ftp location by typing 
+webdav
+or
+ftp
+after setting them up in MEGAcmdShell.exe
+
+someletters represent your mega web location in browser:
+https://mega.nz/fm/someletters
+
+note:
+-I got a lot lot of timeout detected using winscp/ftp with 35 mb file, webdav works fine in explorer.
+-megacmd will create a lot of temp files in '.megaCmd' subfolder
+</pre></code>
 
 <sub>
 Q: How do I use html in github MarkDown?  
