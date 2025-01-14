@@ -41,7 +41,7 @@
 <td><a href="https://mega.nz/#newsignupaGF2YWppQHlhaG9vLmNvbYGjvdF7zokU">code</a></td>
 <td>?</td>
 <td>?</td>
-<td>webdav and ftp supported only through local command line server "MEGA CMD"</td>
+<td>webdav and ftp supported only through local command line server "MEGA CMD". See below for more info.</td>
 <td>Download limited. "The limit is based on the amount of data downloaded from your IP address over the past six hours." </td>
 </tr>
 
