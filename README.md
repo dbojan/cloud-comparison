@@ -33,16 +33,16 @@
 <td>s3, ftp, ftps</td>
 <td>250 GB/Month free traffic. You will be charged if you go over that.</td>
 </tr>
-	
+
 <tr>
-<td><a href="https://www.microsoft.com/en-us/microsoft-365/onedrive/free-online-cloud-storage">one drive</a></td>
-<td>5 GB</td>
+<td><a href="https://mega.io/">mega</a></td>
+<td>20 GB</td>
+<td>+5 GB for desktop app, mobile app, and invite. <b>Storage bonus valid for one year</b>. </td>
+<td><a href="https://mega.nz/#newsignupaGF2YWppQHlhaG9vLmNvbYGjvdF7zokU">code</a></td>
 <td>?</td>
 <td>?</td>
-<td>?</td>
-<td>?</td>
-<td>webdav NOT supported</td>
-<td></td>
+<td>webdav and ftp supported only through local command line server "MEGA CMD"</td>
+<td>Download limited. "The limit is based on the amount of data downloaded from your IP address over the past six hours." </td>
 </tr>
 
 <tr>
@@ -55,16 +55,16 @@
 <td>webdav NOT supported</td>
 <td></td>
 </tr>
-
+ 
 <tr>
-<td><a href="https://mega.io/">mega</a></td>
-<td>20 GB</td>
-<td>+5 GB for desktop app, mobile app, and invite <b>Storage bonus valid for one year</b>. </td>
-<td><a href="https://mega.nz/#newsignupaGF2YWppQHlhaG9vLmNvbYGjvdF7zokU">code</a></td>
+<td><a href="https://www.microsoft.com/en-us/microsoft-365/onedrive/free-online-cloud-storage">one drive</a></td>
+<td>5 GB</td>
+<td>?</td>
+<td>No</td>
 <td>?</td>
 <td>?</td>
-<td>webdav and ftp supported only through local command line server "MEGA CMD"</td>
-<td>Download limited. "The limit is based on the amount of data downloaded from your IP address over the past six hours." </td>
+<td>webdav NOT supported</td>
+<td></td>
 </tr>
 
 </tbody></table>
@@ -73,11 +73,11 @@
 
 ## How to
 
-### Mega cmd how to use to get webdav and ftp local server:
+### How to use 'Mega CMD' to get webdav and ftp local server:
 
 
-download [megacmd](https://mega.io/cmd)
-install
+-download [megacmd](https://mega.io/cmd)
+-install
 (or, if you unzip to to some folder. you have to start MEGAcmdServer.exe first, 
 and then MEGAcmdShell.exe
 since app path is hardcoded to your localappfolder  C:\Users\yourname\AppData\Local\MEGAcmd)
