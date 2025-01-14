@@ -50,13 +50,24 @@
 <td><a href="https://e.mail.ru/">mail.ru</a></td>
 <td>8 GB</td>
 <td>?</td>
-<td>?>code</a></td>
+<td>?></td>
 <td>?</td>
 <td>?</td>
 <td>webdav, you have to enable pass for external apps.</td>
-<td>english version of site is at: https://e.mail.ru </td>
+<td>english version of site is at: https://e.mail.ru</td>
 </tr>
 
+
+<tr>
+<td><a href="https://disk.yandex.com/">yandex disk</a></td>
+<td>5 GB</td>
+<td>?</td>
+<td>?</td>
+<td>?</td>
+<td>?</td>
+<td>webdav, you have to enable pass for external apps.</td>
+<td></td>
+</tr>
 
 <tr>
 <td><a href="https://drive.google.com/">google drive</a></td>
@@ -155,8 +166,16 @@ howto to use:
 -enter your password
 -copy new auto created pass for webdav
 -webdav server is webdav.cloud.mail.ru
+-use your@mail.ru addres and and created pass to login
 
-
+### yandex disk
+-login, go https://id.yandex.com/security
+-click on 'App passwords' at the bottom
+-click on files/webdav
+-enter password name: webdav
+-copy created password, it is only shown once, but you can create new. Both new and old are valid
+-webdav server is webdav.yandex.com
+-use your username, and created pass
 
 
 </pre></code>
