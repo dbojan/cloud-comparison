@@ -15,7 +15,7 @@
 <tr>
 <td><a href="https://infini-cloud.net/en/">ininfini-cloud.net</a></td>
 <td>20 GB</td>
-<td>5 GB, enter referal code in My Page. <b>Storage bonus valid for one year</b>. </td>
+<td>+5 GB, enter referal code in My Page. <b>Storage bonus valid for one year</b>. </td>
 <td>ZPF5G</td>
 <td>No</td>
 <td>2 years, if not used. You will be warned via e-mail</td>
@@ -59,8 +59,8 @@
 <tr>
 <td><a href="https://mega.io/">mega</a></td>
 <td>20 GB</td>
-<td>?</td>
-<td>?</td>
+<td>+5 GB for desktop app, mobile app, and invite <b>Storage bonus valid for one year</b>. </td>
+<td><a href="https://mega.nz/#newsignupaGF2YWppQHlhaG9vLmNvbYGjvdF7zokU">code</a></td>
 <td>?</td>
 <td>?</td>
 <td>webdav and ftp supported only through local command line server "MEGA CMD"</td>
